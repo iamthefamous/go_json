@@ -1,0 +1,22 @@
+{
+    "name" : "James Peterson",
+    "age" : 29,
+    "address" : {
+        "street" : "21 2nd Street",
+        "city" : "New York",
+        "state" : "NY",
+        "postalCode" : "10021"
+    },
+    "pets" : [
+        {
+            "name" : "Spot",
+            "age" : 2,
+            "type" : "dog"
+        },
+        {
+            "name" : "Squeaky",
+            "age" : 5,
+            "type" : "hamster"
+        }
+    ]
+}
